@@ -13,8 +13,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
-        android:text="New Screen"
-        android:textSize="50dp"
+        android:text="First class of java\n i thank this is the /n basic of java we will deccssue "
+        android:textSize="30dp"
         android:gravity="center"
         />
 
@@ -25,6 +25,22 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="30dp"
         android:text="Welcome"
+        android:textSize="25dp"/>
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:text="Welcome"
+        android:textSize="25dp"/>
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:text="Welcome"
+        android:background="@color/white"
+        android:textColor="@color/black"
         android:textSize="25dp"/>
 
 </LinearLayout>
