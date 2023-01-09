@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">java_program</string>
+    <string name="app_name" translatable="false">java_program</string>
+    <string name="textview_value" translatable="false">Counter class</string>
 </resources>
